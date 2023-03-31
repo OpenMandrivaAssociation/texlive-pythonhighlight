@@ -1,6 +1,6 @@
 Name:		texlive-pythonhighlight
 Version:	43191
-Release:	1
+Release:	2
 Summary:	Highlighting of Python code, based on the listings package
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pythonhighlight
