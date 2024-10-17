@@ -3,7 +3,7 @@ Version:	70698
 Release:	1
 Summary:	Highlighting of Python code, based on the listings package
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/pythonhighlight
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/pythonhighlight
 License:	other-free
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pythonhighlight.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/pythonhighlight.doc.r%{version}.tar.xz
